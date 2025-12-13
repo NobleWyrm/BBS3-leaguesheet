@@ -1,4 +1,4 @@
-# BBS3-leaguesheet
+# Blood Bowl League Sheet (Season 3)
 A Google Sheet to help you manage your Blood Bowl League using Season 3 Ruleset.
 
 ## Quickstart
