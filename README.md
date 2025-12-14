@@ -8,7 +8,13 @@ This sheet and associated documents do not contain the rules to Blood Bowl. You 
 
 
 ## Quickstart
-https://docs.google.com/spreadsheets/d/1bTZXUzhivsFwam5YYH20NaRYJH4Aa6mL9wcRlrsjs0c/edit?usp=sharing
+1. Open the [Google Sheet document](https://docs.google.com/spreadsheets/d/1bTZXUzhivsFwam5YYH20NaRYJH4Aa6mL9wcRlrsjs0c/edit?usp=sharing)
+2. Go to File > Make a copy
+3. Follow the instructions to copy the sheet, form, and scripts to a location on your GDrive.
+
+From this point onward you can start using the sheet. Further steps can be taken to set up the supporting Google Form to make adding Teams to the league earlier.
+
+For details on this and how to use the sheet. please refer to the documentation.
 
 ## Documentation
 Full documentation [can be found here](https://github.com/liamwelton/BBS3-leaguesheet/wiki).
