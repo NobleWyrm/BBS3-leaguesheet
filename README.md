@@ -13,9 +13,10 @@ https://docs.google.com/spreadsheets/d/1bTZXUzhivsFwam5YYH20NaRYJH4Aa6mL9wcRlrsj
 ## Documentation
 Full documentation [can be found here](https://github.com/liamwelton/BBS3-leaguesheet/wiki/Documentation).
 
-## Credits
+## Special Thanks
 
-- Me
-- Sam
-- Bobs
-This spreadsheet was developed from a branch of sann0638's fantastic *Sann's Blood Bowl Organiser* Season 2 League sheet. This is being updated to Season 3. Find sann0638's sheet here: <http://www.sann0638.co.uk/bb/sabbo>
+First off, a huge thank you to Samuel Winthrop, who supported on the development of this spreadsheet and took the time to check rules and update much of the data for the Season 3 release.
+
+I also would like to thank the members of my Blood Bowl League - Hot Bobs. They have been very patient and understanding while I was ironing out the bugs in this sheet and made helpful suggestions and recommendations on how it could be more useful. They are also the most wonderful group of people, without whom I don't think I would have enjoyed the game enough to want to work on a spreadsheet for this long.
+
+Finally, this spreadsheet was developed from a branch of sann0638's fantastic *Sann's Blood Bowl Organiser* Season 2 League sheet. This is being updated to Season 3. Find sann0638's sheet here: <http://www.sann0638.co.uk/bb/sabbo>
