@@ -11,7 +11,7 @@ This sheet and associated documents do not contain the rules to Blood Bowl. You 
 https://docs.google.com/spreadsheets/d/1bTZXUzhivsFwam5YYH20NaRYJH4Aa6mL9wcRlrsjs0c/edit?usp=sharing
 
 ## Documentation
-Full documentation [can be found here](https://github.com/liamwelton/BBS3-leaguesheet/wiki/Documentation).
+Full documentation [can be found here](https://github.com/liamwelton/BBS3-leaguesheet/wiki).
 
 ## Special Thanks
 
