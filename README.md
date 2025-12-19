@@ -20,7 +20,7 @@ For details on this and how to use the sheet. please [refer to the documentation
 Full documentation [can be found here](https://github.com/liamwelton/BBS3-leaguesheet/wiki).
 
 ## Usage
-Feel free to use, edit, duplicate, and do whatever you want with this sheet. All I want is to make playing Blood Bowl easier for people, and I want to allow peopel to do whatever they can to support in that endeavour. 
+Feel free to use, edit, duplicate, and do whatever you want with this sheet. All I want is to make playing Blood Bowl easier for people. 
 
 ## Special Thanks
 
